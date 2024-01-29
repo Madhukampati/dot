@@ -1,0 +1,9 @@
+cidr_block = "10.5.0.0/16"
+subnet1 = ["10.5.1.0/24","10.5.3.0/24","10.5.4.0/24"]
+subnet2 = ["10.5.2.0/24","10.5.5.0/24","10.5.6.0/24"]
+az1 = ["us-east-1a","us-east-1b"]
+subnet1_name = "publicsubvar"
+subnet2_name = "privatesubvar"
+igw_name = "igwvar"
+rt_name = "rtvars"
+rt1_name = "rt1vars"

@@ -1,0 +1,9 @@
+variable "cidr_block" {}
+variable "subnet1" {}
+variable "subnet2" {}
+variable "az1" {}
+variable "subnet1_name" {}
+variable "subnet2_name" {}
+variable "igw_name" {}
+variable "rt_name" {}
+variable "rt1_name" {}
